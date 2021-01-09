@@ -124,7 +124,6 @@ if(strpos($message, "/cmds") === 0){
 
 /start - To Restart Bot !!
 /commands - To Show This.
-/info -  To Get Info About This Bot.
 /bin xxxxxx - To Check the provided Bin</b>",
 	'parse_mode'=>'html',
 	'reply_to_message_id'=> $message_id,
