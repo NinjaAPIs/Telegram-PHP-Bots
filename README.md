@@ -30,7 +30,7 @@ This repository aims to demonstrate the usage of all the features offered by the
 Also, it is based on the official [Telegram Bot API](https://core.telegram.org/bots/api) and doesn't use any external libraries
 
 **:exclamation: Important!**
-- The Bot Scripts found here are **not to be used exactly as they are**, they are mere demonstrations of features! They are provided as-is and any **extra security measures or features needs to be added by you**, the developer.
+- The Bot Scripts found here are **not to be used exactly as they are**, they are mere demonstrations of features! They are provided as-is and any **extra security measures or features needs to be added by you**, the developer. Do **NOT** just copy all of them to your bot, but instead learn from them and only add to your bot what you need.
 - Before getting started with this project, make sure you have read the official [documentation](https://ninja-apis.cf) to understand how these bots work.
 
 Let's get started then! :smiley:
