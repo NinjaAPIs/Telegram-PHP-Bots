@@ -13,7 +13,7 @@ A PHP Telegram Bot Open-Source Manager for [**NinjaAPIs**](https://ninja-apis.cf
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Examples](#examples)
+- [Examples]
     - [Bin-Lookup Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Bin-Lookup%20Bot)
     - [IBAN-Checker Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/IBAN-Checker%20Bot)
     - [VOOT-Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/VOOT-Downloader%20Bot)
