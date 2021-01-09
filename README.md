@@ -1,8 +1,8 @@
 <h1 align="center">
     NinjaAPIs PHP Telegram Bots<br>
-	<br>
+    <br>
     <img src="https://avatars1.githubusercontent.com/u/76147628?s=400&v=4" title="NinjaAPIs" alt="NinjaAPIs logo">
-	<br>
+    <br>
 </h1>
 
 A PHP Telegram Bot Open-Source Manager for [**NinjaAPIs**](https://ninja-apis.cf)
@@ -14,11 +14,11 @@ A PHP Telegram Bot Open-Source Manager for [**NinjaAPIs**](https://ninja-apis.cf
 ## Table of Contents
 - [Introduction](#introduction)
 - [Examples](#examples)
-    - [Bin Lookup Bot](#Bin Lookup Bot)
-    - [IBAN Checker Bot](#IBAN Checker Bot)
-    - [Voot Downloader Bot](#Voot Downloader Bot)
-    - [JioSaavn Downloader Bot](#JioSaavn Downloader Bot)
-    - [Mail Validator Bot](#Mail Validator Bot)
+    - [Bin Lookup Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Bin-Lookup%20Bot)
+    - [IBAN Checker Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/IBAN%20Checker%20Bot)
+    - [Voot Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Voot%20Downloader%20Bot)
+    - [JioSaavn Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/JioSaavn%20Downloader%20Bot)
+    - [Mail Validator Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Mail%20Validator%20Bot)
 - [License](#license)
 - [Credits](#credits)
 
@@ -38,8 +38,8 @@ Let's get started then! :smiley:
 
 ## Examples
 
-# [Bin Lookup Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Bin-Lookup%20Bot) - Provides Info about the Bin Given using [`Bin-Lookup API`](https://ninja-apis.cf/#bin-lookup)
-# [IBAN Checker Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/IBAN%20Checker%20Bot) - Checks if the provided IBAN is valid or invalid using [`IBAN-Checker API`](https://ninja-apis.cf/#iban-checker)
-# [Voot Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Voot%20Downloader%20Bot) - Provides a Downloadable Link to the Given Movies/Series using [`Voot Downloader API`](https://ninja-apis.cf/#voot-downloader)
-# [JioSaavn Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/JioSaavn%20Downloader%20Bot) - Provides a Downloadable Link to the Given Song using [`JioSaavn Downloader API`](https://ninja-apis.cf/#jiosaavn-downloaderr)
-# [Mail Validator Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Mail%20Validator%20Bot) - Checks if the provided Email is valid and if it exists using [`Mail Validator API`](https://ninja-apis.cf/#mail-validator)
+#### [Bin Lookup Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Bin-Lookup%20Bot) - Provides Info about the Bin Given using [`Bin-Lookup API`](https://ninja-apis.cf/#bin-lookup)
+#### [IBAN Checker Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/IBAN%20Checker%20Bot) - Checks if the provided IBAN is valid or invalid using [`IBAN-Checker API`](https://ninja-apis.cf/#iban-checker)
+#### [Voot Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Voot%20Downloader%20Bot) - Provides a Downloadable Link to the Given Movies/Series using [`Voot Downloader API`](https://ninja-apis.cf/#voot-downloader)
+#### [JioSaavn Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/JioSaavn%20Downloader%20Bot) - Provides a Downloadable Link to the Given Song using [`JioSaavn Downloader API`](https://ninja-apis.cf/#jiosaavn-downloaderr)
+#### [Mail Validator Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Mail%20Validator%20Bot) - Checks if the provided Email is valid and if it exists using [`Mail Validator API`](https://ninja-apis.cf/#mail-validator)
