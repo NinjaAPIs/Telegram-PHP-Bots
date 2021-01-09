@@ -39,8 +39,8 @@ Let's get started then! :smiley:
 
 ## Examples
 
-- **[Bin Lookup Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Bin-Lookup%20Bot) - Provides Info about the Bin Given using [`Bin-Lookup API`](https://ninja-apis.cf/#bin-lookup)**
-- **[IBAN Checker Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/IBAN%20Checker%20Bot) - Checks if the provided IBAN is valid or invalid using [`IBAN-Checker API`](https://ninja-apis.cf/#iban-checker)**
-- **[Voot Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Voot%20Downloader%20Bot) - Provides a Downloadable Link to the Given Movies/Series using [`Voot Downloader API`](https://ninja-apis.cf/#voot-downloader)**
-- **[JioSaavn Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/JioSaavn%20Downloader%20Bot) - Provides a Downloadable Link to the Given Song using [`JioSaavn Downloader API`](https://ninja-apis.cf/#jiosaavn-downloaderr)**
-- **[Mail Validator Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Mail%20Validator%20Bot) - Checks if the provided Email is valid and if it exists using [`Mail Validator API`](https://ninja-apis.cf/#mail-validator)**
+- **[Bin Lookup Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Bin-Lookup%20Bot)** - Provides Info about the Bin Given using [`Bin-Lookup API`](https://ninja-apis.cf/#bin-lookup)
+- **[IBAN Checker Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/IBAN%20Checker%20Bot)** - Checks if the provided IBAN is valid or invalid using [`IBAN-Checker API`](https://ninja-apis.cf/#iban-checker)
+- **[Voot Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Voot%20Downloader%20Bot)** - Provides a Downloadable Link to the Given Movies/Series using [`Voot Downloader API`](https://ninja-apis.cf/#voot-downloader)
+- **[JioSaavn Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/JioSaavn%20Downloader%20Bot)** - Provides a Downloadable Link to the Given Song using [`JioSaavn Downloader API`](https://ninja-apis.cf/#jiosaavn-downloader)
+- **[Mail Validator Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Mail%20Validator%20Bot)** - Checks if the provided Email is valid and if it exists using [`Mail Validator API`](https://ninja-apis.cf/#mail-validator)
