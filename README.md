@@ -44,3 +44,10 @@ Let's get started then! :smiley:
 - **[Voot Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Voot%20Downloader%20Bot)** - Provides a Downloadable Link to the Given Movies/Series using [`Voot Downloader API`](https://ninja-apis.cf/#voot-downloader)
 - **[JioSaavn Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/JioSaavn%20Downloader%20Bot)** - Provides a Downloadable Link to the Given Song using [`JioSaavn Downloader API`](https://ninja-apis.cf/#jiosaavn-downloader)
 - **[Mail Validator Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Mail%20Validator%20Bot)** - Checks if the provided Email is valid and if it exists using [`Mail Validator API`](https://ninja-apis.cf/#mail-validator)
+
+## License
+[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
+
+**[Telegram-PHP-Bots](https://github.com/NinjaAPIs/Telegram-PHP-Bots) is a Open Source Project for [NinjaAPIs](https://ninja-apis.cf) Under The Terms And Conditions Of The GNU Public License V3.0**
+
+You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. 
