@@ -35,6 +35,7 @@ Also, it is based on the official [Telegram Bot API](https://core.telegram.org/b
 - Before getting started with this project, make sure you have read the official [documentation](https://ninja-apis.cf) to understand how these bots work.
 
 Let's get started then! :smiley:
+
 <br>
 
 ## Examples
