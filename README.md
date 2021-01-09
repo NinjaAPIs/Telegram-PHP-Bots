@@ -36,8 +36,6 @@ Also, it is based on the official [Telegram Bot API](https://core.telegram.org/b
 
 Let's get started then! :smiley:
 
-<br>
-
 ## Examples
 
 - **[Bin Lookup Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Bin-Lookup%20Bot)** - Provides Info about the Bin Given using [`Bin-Lookup API`](https://ninja-apis.cf/#bin-lookup)
