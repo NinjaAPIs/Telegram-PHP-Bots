@@ -14,11 +14,11 @@ A PHP Telegram Bot Open-Source Manager for [**NinjaAPIs**](https://ninja-apis.cf
 ## Table of Contents
 - [Introduction](#introduction)
 - [Examples](#examples)
-    - [Bin-Lookup Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Bin-Lookup%20Bot)
-    - [IBAN-Checker Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/IBAN-Checker%20Bot)
-    - [VOOT-Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/VOOT-Downloader%20Bot)
-    - [JioSaavn-Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/JioSaavn-Downloader%20Bot)
-    - [ValidEmailChecker Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/ValidEmailChecker%20Bot)
+    - [Bin Lookup Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Bin-Lookup%20Bot)
+    - [IBAN Checker Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/IBAN-Checker%20Bot)
+    - [Voot Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/VOOT-Downloader%20Bot)
+    - [JioSaavn Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/JioSaavn-Downloader%20Bot)
+    - [Valid Email Checker Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/ValidEmailChecker%20Bot)
 - [License](#license)
 - [Credits](#credits)
 
