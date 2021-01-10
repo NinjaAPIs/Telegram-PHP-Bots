@@ -10,8 +10,8 @@ $date1 = date("Y-m-d");
 
 ///////////===[Custom Vars]===///////////
 
-define('API_KEY',''); //TOKEN
-$ninjaapikey = ''; //Your API Key
+define('API_KEY','1382500231:AAEj9CBl3lgHtM9DkA6er_mwoP3Gxv56sd8'); //TOKEN
+$ninjaapikey = 'TmluamFOYXZlZW5hYnNvdXVvYWFzYnVv'; //Your API Key
 
 ///////////===[Vars From Message]===///////////
 
@@ -124,6 +124,7 @@ if(strpos($message, "/cmds") === 0){
 
 /start - To Restart Bot !!
 /cmds - To Show This.
+/info -  To Get Info About This Bot.
 /iban xxxxxxxx - To check the provided IBAN</b>",
 	'parse_mode'=>'html',
 	'reply_to_message_id'=> $message_id,
@@ -185,7 +186,7 @@ if (empty($bankzip)) {
 /////////////////////==========[Result]==========////////////////
 
 
-if(strpos($fim, '"is_valid":"true"')){ 
+if(strpos($fim, '"is_valid":"true"')){ //Valid IBAN
 
     bot('sendmessage',[
 	'chat_id'=>$chat_id,
@@ -206,11 +207,11 @@ Checked By </b><b>@$username</b> (<code>$userId</code>)",
 /////////////////////////////////////////////////////////////
 
 
-elseif($fim){ 
+elseif(strpos($fim, '"is_valid":"false"')){ //Invalid IBAN
 
     bot('sendmessage',[
 	'chat_id'=>$chat_id,
-	'text'=>"IBAN -LIVE ✅ <code>$iban</code> - [ RESPONSE: <b>This is a valid IBAN.</b> ]
+	'text'=>"IBAN -DEAD ❌ <code>$iban</code> - [ RESPONSE: <b>This is a invalid IBAN.</b> ]
 
 <u>BIC:</u>  <code>$bic</code>
 <u>Bank:</u>  <b>$bankname</b>
