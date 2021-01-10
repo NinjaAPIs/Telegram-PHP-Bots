@@ -10,8 +10,8 @@ $date1 = date("Y-m-d");
 
 ///////////===[Custom Vars]===///////////
 
-define('API_KEY','1382500231:AAEj9CBl3lgHtM9DkA6er_mwoP3Gxv56sd8'); //TOKEN
-$ninjaapikey = 'TmluamFOYXZlZW5hYnNvdXVvYWFzYnVv'; //Your API Key
+define('API_KEY',''); //TOKEN
+$ninjaapikey = ''; //Your API Key
 
 ///////////===[Vars From Message]===///////////
 
