@@ -19,6 +19,7 @@ A PHP Telegram Bot Open-Source Manager for [**NinjaAPIs**](https://ninja-apis.cf
     - [Voot Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Voot%20Downloader%20Bot)
     - [JioSaavn Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/JioSaavn%20Downloader%20Bot)
     - [Mail Validator Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Mail%20Validator%20Bot)
+    - [Random Data Generator Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Random%20Data%20Generator%20Bot)
 - [License](#license)
 - [Credits](#credits)
 
@@ -43,6 +44,7 @@ Let's get started then! :smiley:
 - **[Voot Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Voot%20Downloader%20Bot)** - Provides a Downloadable Link to the Given Movies/Series using [`Voot Downloader API`](https://ninja-apis.cf/#voot-downloader)
 - **[JioSaavn Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/JioSaavn%20Downloader%20Bot)** - Provides a Downloadable Link to the Given Song using [`JioSaavn Downloader API`](https://ninja-apis.cf/#jiosaavn-downloader)
 - **[Mail Validator Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Mail%20Validator%20Bot)** - Checks if the provided Email is valid and if it exists using [`Mail Validator API`](https://ninja-apis.cf/#mail-validator)
+- **[Random Data Generator Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Random%20Data%20Generator%20Bot)** - Generates Information of a fake citizen using [`Random Data Generator API`](https://ninja-apis.cf/#random-data)
 
 ## License
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
