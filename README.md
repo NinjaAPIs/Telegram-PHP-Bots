@@ -1,7 +1,7 @@
 <h1 align="center">
     NinjaAPIs PHP Telegram Bots<br>
     <br>
-    <img src="https://avatars1.githubusercontent.com/u/76147628?s=400&v=4" title="NinjaAPIs" alt="NinjaAPIs logo">
+    <img src="./misc/76147628.png" title="NinjaAPIs" alt="NinjaAPIs logo">
     <br>
 </h1>
 
@@ -47,7 +47,7 @@ Let's get started then! :smiley:
 - **[Random Data Generator Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Random%20Data%20Generator%20Bot)** - Generates Information of a fake citizen using [`Random Data Generator API`](https://ninja-apis.cf/#random-data)
 
 ## License
-[![MIT Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/330px-MIT_logo.svg.png)](https://opensource.org/licenses/MIT)  
+[![MIT Image](./misc/330px-MIT_logo.svg.jpg)](https://opensource.org/licenses/MIT)  
 
 **[Telegram-PHP-Bots](https://github.com/NinjaAPIs/Telegram-PHP-Bots) is a Open Source Project for [NinjaAPIs](https://ninja-apis.cf) Under The Terms And Conditions Of The MIT License**
 
