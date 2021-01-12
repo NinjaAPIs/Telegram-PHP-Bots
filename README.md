@@ -47,7 +47,7 @@ Let's get started then! :smiley:
 - **[Random Data Generator Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Random%20Data%20Generator%20Bot)** - Generates Information of a fake citizen using [`Random Data Generator API`](https://ninja-apis.cf/#random-data)
 
 ## License
-[![MIT Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/330px-MIT_logo.svg.png =100x100)](https://opensource.org/licenses/MIT)  
+[![MIT Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/330px-MIT_logo.svg.png)](https://opensource.org/licenses/MIT)  
 
 **[Telegram-PHP-Bots](https://github.com/NinjaAPIs/Telegram-PHP-Bots) is a Open Source Project for [NinjaAPIs](https://ninja-apis.cf) Under The Terms And Conditions Of The MIT License**
 
