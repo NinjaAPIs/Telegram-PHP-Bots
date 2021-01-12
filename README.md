@@ -55,7 +55,7 @@ If you enjoy using this library and would like to say thank you, donations are a
 Donations are invested back into the project :+1:
 
 Thank you for keeping this project alive :pray:
-- [![Bitcoin](https://user-images.githubusercontent.com/9423417/59235974-a4c93e80-8be3-11e9-9fde-260c821b6eae.png)[Bitcoin] 33bPBnGsQtiBCBoWeqfuPCnYpbAbArBWoH](https://www.blockchain.com/btc/address/33bPBnGsQtiBCBoWeqfuPCnYpbAbArBWoH)
+- [![Bitcoin](https://user-images.githubusercontent.com/9423417/59235974-a4c93e80-8be3-11e9-9fde-260c821b6eae.png) 33bPBnGsQtiBCBoWeqfuPCnYpbAbArBWoH](https://www.blockchain.com/btc/address/33bPBnGsQtiBCBoWeqfuPCnYpbAbArBWoH)
 - [![Ethereum](https://user-images.githubusercontent.com/9423417/59235975-a4c93e80-8be3-11e9-8762-7a47c62c968d.png) 0x873dD6717e8Cb52eC41454C790d0ae85Fbb51cdE](https://etherscan.io/address/0x873dD6717e8Cb52eC41454C790d0ae85Fbb51cdE)
 
 ## License
