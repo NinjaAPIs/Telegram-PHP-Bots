@@ -9,7 +9,7 @@ A PHP Telegram Bot Open-Source Manager for [**NinjaAPIs**](https://ninja-apis.cf
 
 [![Docs](https://img.shields.io/badge/NinjaAPIs-Docs-32a2da.svg)](https://ninja-apis.cf)
 [![Join the bot update channel on Telegram](https://img.shields.io/badge/Telegram-@NinjaAPIs-64659d.svg)](https://telegram.me/NinjaAPIs)
-[![License](https://img.shields.io/badge/Lisence-GPL%20V3.0-red)](https://github.com/NinjaAPIs/Telegram-PHP-Bots/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-red)](https://github.com/NinjaAPIs/Telegram-PHP-Bots/blob/main/LICENSE)
 
 ## Table of Contents
 - [Introduction](#introduction)
