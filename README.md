@@ -7,7 +7,7 @@
 
 A PHP Telegram Bot Open-Source Manager for [**NinjaAPIs**](https://ninja-apis.cf)
 
-[![Docs](https://img.shields.io/badge/NinjaAPIs-Docs-32a2da.svg =100x100)](https://ninja-apis.cf)
+[![Docs](https://img.shields.io/badge/NinjaAPIs-Docs-32a2da.svg)](https://ninja-apis.cf)
 [![Join the bot update channel on Telegram](https://img.shields.io/badge/Telegram-@NinjaAPIs-64659d.svg)](https://telegram.me/NinjaAPIs)
 [![License](https://img.shields.io/badge/Lisence-GPL%20V3.0-red)](https://github.com/NinjaAPIs/Telegram-PHP-Bots/blob/main/LICENSE)
 
@@ -47,7 +47,7 @@ Let's get started then! :smiley:
 - **[Random Data Generator Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Random%20Data%20Generator%20Bot)** - Generates Information of a fake citizen using [`Random Data Generator API`](https://ninja-apis.cf/#random-data)
 
 ## License
-[![MIT Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/330px-MIT_logo.svg.png)](https://opensource.org/licenses/MIT)  
+[![MIT Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/330px-MIT_logo.svg.png =100x100)](https://opensource.org/licenses/MIT)  
 
 **[Telegram-PHP-Bots](https://github.com/NinjaAPIs/Telegram-PHP-Bots) is a Open Source Project for [NinjaAPIs](https://ninja-apis.cf) Under The Terms And Conditions Of The MIT License**
 
