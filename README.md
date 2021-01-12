@@ -47,8 +47,8 @@ Let's get started then! :smiley:
 - **[Random Data Generator Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Random%20Data%20Generator%20Bot)** - Generates Information of a fake citizen using [`Random Data Generator API`](https://ninja-apis.cf/#random-data)
 
 ## License
-[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
+[![MIT Image](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7195e121-eded-45cf-9aab-909deebd81b2/d9ur2lg-28410b47-58fd-4a48-9b67-49c0f56c68ce.png/v1/fill/w_1035,h_772,q_70,strp/mit_license_logo_by_excaliburzero_d9ur2lg-pre.jpg)](https://opensource.org/licenses/MIT)  
 
-**[Telegram-PHP-Bots](https://github.com/NinjaAPIs/Telegram-PHP-Bots) is a Open Source Project for [NinjaAPIs](https://ninja-apis.cf) Under The Terms And Conditions Of The GNU Public License V3.0**
+**[Telegram-PHP-Bots](https://github.com/NinjaAPIs/Telegram-PHP-Bots) is a Open Source Project for [NinjaAPIs](https://ninja-apis.cf) Under The Terms And Conditions Of The MIT License**
 
-You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. 
+You can use, study share and improve it at your will. Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions
