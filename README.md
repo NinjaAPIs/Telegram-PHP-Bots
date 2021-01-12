@@ -20,6 +20,7 @@ A PHP Telegram Bot Open-Source Manager for [**NinjaAPIs**](https://ninja-apis.cf
     - [JioSaavn Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/JioSaavn%20Downloader%20Bot)
     - [Mail Validator Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Mail%20Validator%20Bot)
     - [Random Data Generator Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Random%20Data%20Generator%20Bot)
+- [Donate](#donate)
 - [License](#license)
 - [Credits](#credits)
 
@@ -45,6 +46,17 @@ Let's get started then! :smiley:
 - **[JioSaavn Downloader Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/JioSaavn%20Downloader%20Bot)** - Provides a Downloadable Link to the Given Song using [`JioSaavn Downloader API`](https://ninja-apis.cf/#jiosaavn-downloader)
 - **[Mail Validator Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Mail%20Validator%20Bot)** - Checks if the provided Email is valid and if it exists using [`Mail Validator API`](https://ninja-apis.cf/#mail-validator)
 - **[Random Data Generator Bot](https://github.com/NinjaAPIs/Telegram-PHP-Bots/tree/main/Random%20Data%20Generator%20Bot)** - Generates Information of a fake citizen using [`Random Data Generator API`](https://ninja-apis.cf/#random-data)
+
+## Donate
+
+All work on this Project consists of many hours of coding during our free time, to provide you with a Free API library that is easy to use.
+If you enjoy using this library and would like to say thank you, donations are a great way to show your support.
+
+Donations are invested back into the project :+1:
+
+Thank you for keeping this project alive :pray:
+- [![Bitcoin](https://user-images.githubusercontent.com/9423417/59235974-a4c93e80-8be3-11e9-9fde-260c821b6eae.png) 33bPBnGsQtiBCBoWeqfuPCnYpbAbArBWoH][Bitcoin]
+- [![Ethereum](https://user-images.githubusercontent.com/9423417/59235975-a4c93e80-8be3-11e9-8762-7a47c62c968d.png) 0x873dD6717e8Cb52eC41454C790d0ae85Fbb51cdE][Ethereum]
 
 ## License
 [![MIT Image](./misc/330px-MIT_logo.svg.jpg)](https://opensource.org/licenses/MIT)  
